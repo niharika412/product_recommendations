@@ -1,4 +1,4 @@
-▶▶The user interface of the project is done completely using Plotly Dash. 
+▶▶   The user interface of the project is done completely using Plotly Dash. 
 * Dash is basically a platform by the renowned Plotly library,which many data scientists use as a User Interface.
 * Dash uses Flask as the base framework and creates a web application where data scientists and analysts can display visualizations, text or any such asset. Dash is completely in Python so you do not have to worry about learning JavaScript. It is the nearest equivalent of the R Shiny platform.
 
